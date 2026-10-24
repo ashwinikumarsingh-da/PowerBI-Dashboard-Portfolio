@@ -1,43 +1,34 @@
-# Shield Insurance – Power BI Business Analysis
+# 🛡️ Shield Insurance Analytics | Power BI
 
-## Project Overview
-This project analyses Shield Insurance's business performance using Power BI as part of the Codebasics Data Analytics 6.0 Virtual Internship. The dashboard covers revenue, customer trends, city performance, sales channels, and age-wise settlement patterns for November 2022–April 2023.
+### 📌 Project Overview
+Analysed Shield Insurance data using Power BI to understand revenue trends, customer behaviour, sales channels, and claim settlement patterns.
 
-## Tools Used
-- Power BI
-- DAX (for implemented measures)
-- Data Visualisation and Business Intelligence
+**Period:** November 2022 – April 2023
 
-## Key Findings
-- **Total Revenue:** ₹989.25 million
+### 📊 Key Metrics
+- **Total Revenue:** ₹989.25 Million
 - **Total Customers:** 26,841
-- **Top City:** Delhi NCR, contributing approximately 40.6% of revenue
-- **Top Sales Channel:** Offline Agent, contributing approximately 55.7% of revenue
-- **Top Customer Segment:** Ages 31–40, generating approximately ₹350.7 million
+- **Average Premium per Customer:** ₹36.86K
+- **Daily Customers:** 148.29
+- **Daily Revenue:** ₹5.47 Million
 
-## Problems Identified
-- Monthly revenue fluctuations.
-- High revenue concentration in Delhi NCR and Mumbai.
-- Heavy dependence on offline agent sales.
-- Differences in settlement percentages across age groups.
+### 🔍 Key Findings
+- Delhi NCR contributed **40.6% of total revenue**.
+- Offline agents generated **55.4% of revenue**.
+- The **31–40 age group** was the largest customer segment.
+- Revenue declined **41.7% from March to April**.
+- Customers aged 65+ had the highest displayed claim settlement rate at **74.33%**.
 
-## Recommendations
-- Investigate monthly revenue changes to identify underlying causes.
-- Strengthen online sales and renewal opportunities.
-- Explore growth opportunities in cities with lower revenue contributions.
-- Review settlement patterns alongside claims and policy data before making underwriting decisions.
+### 💡 Recommendations
+- Improve digital sales through the app and website.
+- Investigate the April revenue decline.
+- Explore growth opportunities in other cities.
+- Review customer segments and claim patterns.
 
-## Dashboard Pages
-1. **Insurance Dashboard** – Overall KPIs and business performance.
-2. **Sales Overview** – Monthly revenue, city performance, and sales channels.
-3. **Age Overview** – Customer distribution, age-wise revenue, and settlement percentages.
+### 🛠️ Tools Used
+**Power BI | DAX | Power Query**
 
-## Project Files
-- `Shield_Insurance_Dashboard.pbix` – Interactive, editable Power BI report.
-- `Shield_Insurance_Dashboard.pdf` – PDF export of the dashboard.
+### 🎯 Project Outcome
+Created an interactive dashboard to track business performance, identify trends, and support data-driven decisions.
 
-## Conclusion
-This project demonstrates how Power BI can turn business data into meaningful insights, identify performance challenges, and support data-driven recommendations.
-
-## Acknowledgement
-Completed as part of the Codebasics Data Analytics 6.0 Virtual Internship.
+**Dashboard:** Add your published Power BI link here.
